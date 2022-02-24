@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-The workshop will be a one-week event comprising 10 periods (~3 hours each) that include both theory and computer laboratory. It is based on a [workshop in 2021](https://ccbatiit.github.io/modelingworkshop2021/index.html). The workshop will be primarily taught by David Minh. Some modules will be taught by guest lecturers.
+The workshop will be a one-week event comprising 10 periods (~3 hours each) that include both theory and computer laboratory. It will be based on a [workshop in 2021](https://ccbatiit.github.io/modelingworkshop2021/index.html). The workshop will be primarily taught by David Minh. Some modules will be taught by guest lecturers.
 
 Topics are as follows:
 
@@ -16,8 +16,7 @@ Topics are as follows:
 
 Lectures may be recorded and computer laboratory exercises may be posted online for participants to complete asynchronously and as a free online resource.
 
-We will soon update a list of software and web servers and prepare a virtual machine to download.
-
+Computer laboratories will be run on [Google Colab](https://colab.research.google.com/), which is accessible through the internet. They will be adapted from the 2021 workshop, [Cloud-based Tutorials on Structural Bioinformatics](https://github.com/pb3lab/ibm3202), and [teachopencadd](https://github.com/volkamerlab/teachopencadd).
 
 # Who?
 
@@ -56,7 +55,7 @@ Workshop instructors will hold online office hours at the following times:
 
 # Where?
 
-The workshop will be held at Simon Bolivar University in Barranqulla, Colombia.
+The workshop will be held at Simon Bolivar University in Barranquilla, Colombia.
 
 # Why?
 
