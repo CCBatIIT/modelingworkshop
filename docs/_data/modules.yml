@@ -1,61 +1,66 @@
 - title: "Introductory remarks"
-  basename: 1-1-0-introductory-remarks
+  basename: 1-1-introductory-remarks
   day: 1
   period: 1
   bold: true
 
-- title: "Exercise: Navigating the LINUX terminal"
-  basename: 1-1-1-linux
+- title: "Lab: Introduction to Google Colab"
+  notebook: google-colab
   day: 1
   period: 1
 
 - title: "Fundamentals of biological macromolecules"
-  basename: 1-1-2-biological-macromolecules
+  basename: 1-1-biological-macromolecules
   day: 1
   period: 1
   bold: true
 
-- title: "Exercise: Visualization and structural alignment"
-  basename: 1-1-3-visualization-structural-alignment
+- title: "Lab: Structural visualization with py3DMol"
+  notebook: py3DMol
   day: 1
   period: 1
 
 - title: "Three-dimensional models"
-  basename: None
   day: 1
   period: 2
   bold: true
 
 - title: "Structure determination by X-ray crystallography, NMR, and CryoEM"
-  basename: 1-2-0-structure-determination
+  teacher: Sorescu
+  # basename: 1-2-structure-determination
   day: 1
   period: 2
 
 - title: "Structure prediction"
-  basename: 1-2-1-structure-prediction
+  # basename: 1-2-structure-prediction
   day: 1
   period: 2
 
-- title: "Exercise: Building a homology model"
-  basename: 1-2-2-homology-model
+- title: "Lab: Homology modeling with MODELLER"
+  # notebook: modeller
   day: 1
   period: 2
 
 - title: "Electrostatics and solvation by continuum dielectric models"
+  # basename: 2-1-electrostatics-solvation
   day: 2
   period: 1
   bold: true
 
-- title: "Exercise: Calculating and visualizing an electrostatic potential"
+- title: "Lab: Visualizing protonation and electrostatics"
+  # notebook: poisson-boltzmann
   day: 2
   period: 1
 
 - title: "Molecular docking"
+  teacher: Patel
+  # basename: 2-2-molecular-docking
   day: 2
   period: 2
   bold: true
 
-- title: "Exercise: Running and analyzing a molecular docking calculation"
+- title: "Lab: Molecular docking with AutoDock Vina"
+  # notebook: docking
   day: 2
   period: 2
 
@@ -65,7 +70,7 @@
   period: 1
   bold: true
 
-- title: "Exercise: Preparing a protein model for AMBER molecular dynamics"
+- title: "Lab: Preparing a protein model for AMBER molecular dynamics"
   day: 3
   period: 1
 
@@ -75,7 +80,7 @@
   period: 2
   bold: true
 
-- title: "Exercise: Performing a QM/MM calculation"
+- title: "Lab: Performing a QM/MM calculation"
   day: 3
   period: 2
 
@@ -86,7 +91,7 @@
   period: 1
   bold: true
 
-- title: "Exercise: Performing a molecular simulation with Robosample"
+- title: "Lab: Performing a molecular simulation with Robosample"
   day: 4
   period: 1
 

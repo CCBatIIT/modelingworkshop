@@ -10,13 +10,17 @@ Topics are as follows:
 | Day | Period 1 | Period 2 |
 | --- | -------- | -------- |
 {% for day in (1..5) %} | {{ day }} | {% for period in (1..2) %} {% for module in site.data.modules %} {% if module.day == day %} {% if module.period == period %}{%- if module.bold %}<b>{% endif %}{{ module.title }}{% if module.bold %}</b>{% endif -%}{% if module.teacher %} ({{ module.teacher }}){% endif -%}{% if module.description %}. <i>{{ module.description }}</i> {% endif -%}
-{% if module.basename != "None" %} [{% if module.slides == "ppt" %}[ppt](https://github.com/CCBatIIT/modelingworkshop/raw/main/slides/{{ module.basename }}.ppt)/{% elsif module.slides == "pdf"%}{% else %}[key](https://github.com/CCBatIIT/modelingworkshop/raw/main/slides/{{ module.basename }}.key)/{% endif -%}[pdf](https://github.com/CCBatIIT/modelingworkshop/raw/main/slides/{{ module.basename }}.pdf)]. {% else %}.
+{% if module.notebook %} [[ipynb](https://github.com/CCBatIIT/modelingworkshop/raw/main/labs/{{ module.notebook }}.ipynb)]
+{%- endif -%}
+{% if module.basename %} [{% if module.slides == "ppt" %}[ppt](https://github.com/CCBatIIT/modelingworkshop/raw/main/slides/{{ module.basename }}.ppt)/{% elsif module.slides == "pdf"%}{% else %}[key](https://github.com/CCBatIIT/modelingworkshop/raw/main/slides/{{ module.basename }}.key)/{% endif -%}[pdf](https://github.com/CCBatIIT/modelingworkshop/raw/main/slides/{{ module.basename }}.pdf)]. {% else %}.
 {%- endif %} {%- endif %} {% endif %} {% endfor %} | {% endfor %}
 {% endfor %}
 
 Lectures may be recorded and computer laboratory exercises may be posted online for participants to complete asynchronously and as a free online resource.
 
-Computer laboratories will be run on [Google Colab](https://colab.research.google.com/), which is accessible through the internet. They will be adapted from the 2021 workshop, [Cloud-based Tutorials on Structural Bioinformatics](https://github.com/pb3lab/ibm3202), and [teachopencadd](https://github.com/volkamerlab/teachopencadd).
+Computer laboratories will be run on [Google Colab](https://colab.research.google.com/), which is accessible through the internet. They will be adapted from the 2021 workshop,
+[IIBM3202 Molecular Modeling and Simulation](https://github.com/pb3lab/ibm3202/) from the Institute for Biological and Engineering at Pontificia Universidad Catolica de Chile,
+and [TeachOpenCADD](https://github.com/volkamerlab/teachopencadd).
 
 # Who?
 
