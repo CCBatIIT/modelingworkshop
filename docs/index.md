@@ -3,7 +3,17 @@ layout: default
 title: About
 ---
 
-The workshop will be a one-week event comprising 10 periods (~3 hours each) that include both theory and computer laboratory. It will be based on a [workshop in 2021](https://ccbatiit.github.io/modelingworkshop2021/index.html). The workshop will be primarily taught by David Minh. Some modules will be taught by guest lecturers.
+![Anuncio](https://github.com/CCBatIIT/modelingworkshop/raw/main/images/anuncio.jpeg)
+
+# What?
+
+The workshop will be a one-week event comprising 10 periods (~3 hours each) that include both theory and computer laboratory. It will presented in English and then translated to Spanish. It will be based on a [workshop in 2021](https://ccbatiit.github.io/modelingworkshop2021/index.html).
+
+A major change from the previous workshop is that computer laboratories will be run on [Google Colab](https://colab.research.google.com/), which is accessible through the internet. The laboratories will be adapted from the 2021 workshop,
+[IIBM3202 Molecular Modeling and Simulation](https://github.com/pb3lab/ibm3202/) from the Institute for Biological and Engineering at Pontificia Universidad Catolica de Chile,
+and [TeachOpenCADD](https://github.com/volkamerlab/teachopencadd).
+
+The workshop will be primarily taught by David Minh. Some modules will be taught by guest lecturers: Joseph DePaolo-Boisvert, Kunj Patel, Jennifer Sorescu, Laurentiu Spiridon, Sivanujan Suthaharan. Spiridon is a staff scientist in the Romanian Institute of Biochemistry. The others are Minh's students and will be presenting under his supervision.
 
 Topics are as follows:
 
@@ -16,17 +26,14 @@ Topics are as follows:
 {%- endif %} {%- endif %} {% endif %} {% endfor %} | {% endfor %}
 {% endfor %}
 
-Lectures may be recorded and computer laboratory exercises may be posted online for participants to complete asynchronously and as a free online resource.
+Lectures may be recorded and posted online for participants to complete asynchronously and as a free online resource.
 
-Computer laboratories will be run on [Google Colab](https://colab.research.google.com/), which is accessible through the internet. They will be adapted from the 2021 workshop,
-[IIBM3202 Molecular Modeling and Simulation](https://github.com/pb3lab/ibm3202/) from the Institute for Biological and Engineering at Pontificia Universidad Catolica de Chile,
-and [TeachOpenCADD](https://github.com/volkamerlab/teachopencadd).
 
 # Who?
 
 This workshop will introduce advanced undergraduate students, graduate students, and research scientists in chemistry, biology, and related fields to computational methods for modeling biological macromolecules. Workshop participants will mostly be from Colombia, Romania, and the United States of America.
 
-Up to 10 students may participate at Simon Bolivar University in Barranquilla, Colombia, and additional 10 students may participate online and receive support from the instructors.
+Up to 25 students may participate at Simon Bolivar University in Barranquilla, Colombia, and additional 25 students may participate online and receive support from the instructors.
 
 Participants should have a laptop computer capable of running the virtual machine.
 
@@ -38,12 +45,12 @@ After the workshop, lecture recordings and slides may be made freely available o
 
 The workshop will be held from March 14 to March 18, 2022. Modules will start at the following times, which are in Colombia Time (COT)/Central Daylight Time (CDT) and Eastern European Time (EST):
 
-| Module | CDT  | EST  |
+| Module | COT/CDT  | EST  |
 | ------ | ---- | ---- |
 | 1      | 9 am | 4 pm |
 | 2      | 2 pm | 9 pm |
 
-All participants are welcome to work through the modules synchronously. Participants in COT/CDT are especially encouraged to participate live. However, it will probably make sense for remote participants, based on their time zone, to complete modules at a more convenient time. All participants can reach out to all workshop instructors for online office hours.
+All participants are welcome to work through the modules synchronously. Participants in COT/CDT are especially encouraged to participate live. However, it will probably make sense for remote participants, based on their time zone, to complete modules at a more convenient time. All participants can reach out to all workshop instructors.
 
 <!--
 Online office hours will be held at the following times:

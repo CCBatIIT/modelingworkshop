@@ -42,7 +42,7 @@
   period: 2
 
 - title: "Lab: Homology modeling with MODELLER"
-  # notebook: modeller
+  notebook: modeller
   day: 1
   period: 2
 
