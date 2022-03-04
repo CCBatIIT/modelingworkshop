@@ -20,6 +20,11 @@
   day: 1
   period: 1
 
+- title: "Lab: Structural visualization with NGL View (alternative)"
+  notebook: nglview
+  day: 1
+  period: 1
+
 - title: "Three-dimensional models"
   day: 1
   period: 2
@@ -32,7 +37,7 @@
   period: 2
 
 - title: "Structure prediction"
-  # basename: 1-2-structure-prediction
+  basename: 1-2-structure-prediction
   day: 1
   period: 2
 
