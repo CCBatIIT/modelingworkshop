@@ -47,13 +47,13 @@
   period: 2
 
 - title: "Electrostatics and solvation by continuum dielectric models"
-  # basename: 2-1-electrostatics-solvation
+  basename: 2-1-electrostatics
   day: 2
   period: 1
   bold: true
 
 - title: "Lab: Visualizing protonation and electrostatics"
-  # notebook: poisson-boltzmann
+  notebook: electrostatics
   day: 2
   period: 1
 
