@@ -1,0 +1,25 @@
+#CONFIGURATION FILE (options not used are commented) 
+
+#INPUT OPTIONS 
+receptor = k5f10lg2t7.pdbqt 
+ligand = paxlovid.pdbqt 
+#flex = [flexible residues in receptor in pdbqt format] 
+#SEARCH SPACE CONFIGURATIONS 
+#Center of the box (values bxi, byi and bzi) 
+center_x = 0 
+center_y = 0 
+center_z = 15 
+#Size of the box (values bxf, byf and bzf) 
+size_x = 30 
+size_y = 30 
+size_z = 30 
+#OUTPUT OPTIONS 
+#out = 
+#log = 
+
+#OTHER OPTIONS 
+#cpu =  
+#exhaustiveness = 
+#num_modes = 
+#energy_range = 
+#seed = 

@@ -7,26 +7,18 @@ https://projects.volkamerlab.org/teachopencadd/talktorials/T019_md_simulation.ht
 
 Lab.08 / IBM3202 – Trajectory Analysis using MDanalysis
 https://projects.volkamerlab.org/teachopencadd/talktorials/T020_md_analysis.html
-
-* Results directory on Google Drive
-
-2022_Modeling_Workshop_MPro/
   
-  1-2-structure-prediction/
-
-* PDB2PQR and APBS in electrostatics lab
-
-
 POSSIBLE IMPROVEMENTS
 
 * More questions in slides
 
 * Introduce Protein Data Bank / Fragalysis pages
 
+* PDB2PQR and APBS in electrostatics lab
+
 * Highlight differences between homology model and template
 
 * Docking pose visualizer
-
 
 FOR NEXT TIME
 
