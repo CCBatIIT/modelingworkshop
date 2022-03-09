@@ -20,7 +20,7 @@ Topics are as follows:
 | Day | Period 1 | Period 2 |
 | --- | -------- | -------- |
 {% for day in (1..5) %} | {{ day }} | {% for period in (1..2) %} {% for module in site.data.modules %} {% if module.day == day %} {% if module.period == period %}{%- if module.bold %}<b>{% endif %}{{ module.title }}{% if module.bold %}</b>{% endif -%}{% if module.teacher %} ({{ module.teacher }}){% endif -%}{% if module.description %}. <i>{{ module.description }}</i> {% endif -%}
-{% if module.notebook %} [[colab](https://colab.research.google.com/github/CCBatIIT/modelingworkshop/blob/main/labs/{{ module.notebook }}.ipynb)]
+{% if module.notebook %} [[colab](https://colab.research.google.com/github/CCBatIIT/modelingworkshop/blob/main/labs/{{ module.day }}-{{module.period}}/{{ module.notebook }}.ipynb)]
 {%- endif -%}
 {% if module.basename %} [{% if module.slides == "ppt" %}[ppt](https://github.com/CCBatIIT/modelingworkshop/raw/main/slides/{{ module.basename }}.ppt)/{% elsif module.slides == "pdf"%}{% else %}[key](https://github.com/CCBatIIT/modelingworkshop/raw/main/slides/{{ module.basename }}.key)/{% endif -%}[pdf](https://github.com/CCBatIIT/modelingworkshop/raw/main/slides/{{ module.basename }}.pdf)]. {% else %}.
 {%- endif %} {%- endif %} {% endif %} {% endfor %} | {% endfor %}
