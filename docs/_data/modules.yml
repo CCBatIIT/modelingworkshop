@@ -85,7 +85,7 @@
   period: 2
   bold: true
 
-- title: "Lab: Performing a QM/MM calculation"
+- title: "Lab: QM/MM analysis of MPro catalysis"
   day: 3
   period: 2
 
@@ -95,6 +95,10 @@
   day: 4
   period: 1
   bold: true
+
+- title: "Lab: Performing a molecular simulation with OpenMM"
+  day: 4
+  period: 1
 
 - title: "Lab: Performing a molecular simulation with Robosample"
   day: 4
