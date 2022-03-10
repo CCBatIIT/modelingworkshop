@@ -20,5 +20,11 @@ POSSIBLE IMPROVEMENTS
 
 * Docking pose visualizer. prolif?
 
+* OpenMM simulation
+
+* Markov State Models
+
+
+
 FOR NEXT TIME
 

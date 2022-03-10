@@ -65,7 +65,7 @@
   bold: true
 
 - title: "Lab: Molecular docking with AutoDock Vina"
-  # notebook: docking
+  notebook: docking
   day: 2
   period: 2
 
@@ -91,12 +91,14 @@
 
 - title: Molecular simulation
   teacher: Spiridon
+  basename: 4-1-molecular-simulation
   description: Markov chain Monte Carlo. Molecular dynamics. Constrained dynamics. Integrators, thermostats, and barostats
   day: 4
   period: 1
   bold: true
 
 - title: "Lab: Performing a molecular simulation with OpenMM"
+  notebook: openmm
   day: 4
   period: 1
 
@@ -104,17 +106,17 @@
   day: 4
   period: 1
 
-- title: Analysis of molecular simulations
+- title: "Lab: Analysis of molecular simulations"
   description: "Equilibration. Alignment and visualization of trajectories. Root mean square properties. Estimating expectation values. Dimensionality reduction"
   day: 4
   period: 2
   bold: true
 
-- title: Markov State Models
-  description: "Conformational clustering. Markov chains. Microstates and empirical transition matrices. Computing equilibrium populations and kinetics"
-  day: 4
-  period: 2
-  bold: true
+# - title: Markov State Models
+#   description: "Conformational clustering. Markov chains. Microstates and empirical transition matrices. Computing equilibrium populations and kinetics"
+#   day: 4
+#   period: 2
+#   bold: true
 
 - title: Simulating and analyzing thermodynamic processes
   description: "Thermodynamic processes. Umbrella sampling. Replica exchange. Statistical estimation of expectations and free energies"
