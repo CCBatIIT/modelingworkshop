@@ -18,12 +18,9 @@ POSSIBLE IMPROVEMENTS
 
 * Highlight differences between homology model and template
 
-* Docking pose visualizer. prolif?
-
-* OpenMM simulation
+* Docking pose visualizer. prolif? plip? https://github.com/pharmai/plip
 
 * Markov State Models
-
 
 
 FOR NEXT TIME
