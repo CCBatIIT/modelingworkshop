@@ -18,7 +18,7 @@ POSSIBLE IMPROVEMENTS
 
 * Highlight differences between homology model and template
 
-* Docking pose visualizer
+* Docking pose visualizer. prolif?
 
 FOR NEXT TIME
 
