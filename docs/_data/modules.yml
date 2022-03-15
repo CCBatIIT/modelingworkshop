@@ -59,7 +59,7 @@
 
 - title: "Molecular docking"
   teacher: Patel
-  # basename: 2-2-molecular-docking
+  basename: 2-2-molecular-docking
   day: 2
   period: 2
   bold: true
@@ -119,6 +119,7 @@
 #   bold: true
 
 - title: Simulating and analyzing thermodynamic processes
+  basename: 5-1-thermodynamic-processes
   description: "Thermodynamic processes. Umbrella sampling. Replica exchange. Statistical estimation of expectations and free energies"
   day: 5
   period: 1
