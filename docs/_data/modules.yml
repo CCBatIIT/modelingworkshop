@@ -32,7 +32,7 @@
 
 - title: "Structure determination by X-ray crystallography, NMR, and CryoEM"
   teacher: Sorescu
-  # basename: 1-2-structure-determination
+  basename: 1-2-structure-determination
   day: 1
   period: 2
 
