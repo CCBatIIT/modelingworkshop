@@ -1,0 +1,5 @@
+source leaprc.gaff2
+mol = loadmol2 nirmatrelvir_P.mol2
+loadamberparams nirmatrelvir_P.frcmod
+saveamberparm mol nirmatrelvir_P.prmtop nirmatrelvir_P.inpcrd
+quit

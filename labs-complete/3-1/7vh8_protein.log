@@ -1,0 +1,79 @@
+2022-03-16 14:34:50,990 INFO:main.py:240:print_splash_screen:PDB2PQR v3.5.2: biomolecular structure conversion software.
+2022-03-16 14:34:50,991 INFO:main.py:242:print_splash_screen:Please cite:  Jurrus E, et al.  Improvements to the APBS biomolecular solvation software suite.  Protein Sci 27 112-128 (2018).
+2022-03-16 14:34:50,991 INFO:main.py:242:print_splash_screen:Please cite:  Dolinsky TJ, et al.  PDB2PQR: expanding and upgrading automated preparation of biomolecular structures for molecular simulations. Nucleic Acids Res 35 W522-W525 (2007).
+2022-03-16 14:34:50,991 INFO:main.py:752:main_driver:Checking and transforming input arguments.
+2022-03-16 14:34:50,992 INFO:main.py:756:main_driver:Loading topology files.
+2022-03-16 14:34:51,076 INFO:main.py:758:main_driver:Loading molecule: 7vh8_protein.pdb
+2022-03-16 14:34:51,099 INFO:main.py:763:main_driver:Setting up molecule.
+2022-03-16 14:34:51,137 INFO:main.py:409:setup_molecule:Created biomolecule object with 306 residues and 2360 atoms.
+2022-03-16 14:34:51,137 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in SER A 1.
+2022-03-16 14:34:51,137 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER A 1.
+2022-03-16 14:34:51,137 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER A 1.
+2022-03-16 14:34:51,137 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER A 1. At least one of the instances is being ignored.
+2022-03-16 14:34:51,138 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in CYS A 128.
+2022-03-16 14:34:51,138 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in CYS A 128.
+2022-03-16 14:34:51,138 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SG in CYS A 128.
+2022-03-16 14:34:51,138 WARNING:main.py:424:setup_molecule:Multiple occupancies found in CYS A 128. At least one of the instances is being ignored.
+2022-03-16 14:34:51,138 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in THR A 198.
+2022-03-16 14:34:51,138 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in THR A 198.
+2022-03-16 14:34:51,138 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG1 in THR A 198.
+2022-03-16 14:34:51,138 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in THR A 198.
+2022-03-16 14:34:51,139 WARNING:main.py:424:setup_molecule:Multiple occupancies found in THR A 198. At least one of the instances is being ignored.
+2022-03-16 14:34:51,139 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in SER A 284.
+2022-03-16 14:34:51,139 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER A 284.
+2022-03-16 14:34:51,139 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER A 284.
+2022-03-16 14:34:51,139 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER A 284. At least one of the instances is being ignored.
+2022-03-16 14:34:51,139 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in ARG A 298.
+2022-03-16 14:34:51,139 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ARG A 298.
+2022-03-16 14:34:51,139 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ARG A 298.
+2022-03-16 14:34:51,139 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in ARG A 298.
+2022-03-16 14:34:51,140 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE in ARG A 298.
+2022-03-16 14:34:51,140 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CZ in ARG A 298.
+2022-03-16 14:34:51,140 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NH1 in ARG A 298.
+2022-03-16 14:34:51,140 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NH2 in ARG A 298.
+2022-03-16 14:34:51,140 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ARG A 298. At least one of the instances is being ignored.
+2022-03-16 14:34:51,140 INFO:main.py:767:main_driver:Setting termini states for biomolecule chains.
+2022-03-16 14:34:51,152 INFO:main.py:603:non_trivial:Loading forcefield.
+2022-03-16 14:34:51,166 INFO:main.py:607:non_trivial:Loading hydrogen topology definitions.
+2022-03-16 14:34:51,170 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom CG in residue TYR A 154
+2022-03-16 14:34:51,170 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom CD1 in residue TYR A 154
+2022-03-16 14:34:51,170 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom CD2 in residue TYR A 154
+2022-03-16 14:34:51,171 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom CE1 in residue TYR A 154
+2022-03-16 14:34:51,171 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom CE2 in residue TYR A 154
+2022-03-16 14:34:51,171 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom CZ in residue TYR A 154
+2022-03-16 14:34:51,171 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom OH in residue TYR A 154
+2022-03-16 14:34:51,172 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom OXT in residue GLN A 306
+2022-03-16 14:34:51,173 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom CG in residue TYR A 154
+2022-03-16 14:34:51,173 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom CD1 in residue TYR A 154
+2022-03-16 14:34:51,173 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom CD2 in residue TYR A 154
+2022-03-16 14:34:51,173 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom CE1 in residue TYR A 154
+2022-03-16 14:34:51,173 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom CE2 in residue TYR A 154
+2022-03-16 14:34:51,173 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom CZ in residue TYR A 154
+2022-03-16 14:34:51,173 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom OH in residue TYR A 154
+2022-03-16 14:34:51,174 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom OXT in residue GLN A 306
+2022-03-16 14:34:51,174 INFO:main.py:618:non_trivial:Attempting to repair 8 missing atoms in biomolecule.
+2022-03-16 14:34:51,175 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom CG in residue TYR A 154
+2022-03-16 14:34:51,175 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom CD1 in residue TYR A 154
+2022-03-16 14:34:51,176 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom CD2 in residue TYR A 154
+2022-03-16 14:34:51,176 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom CE1 in residue TYR A 154
+2022-03-16 14:34:51,176 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom CE2 in residue TYR A 154
+2022-03-16 14:34:51,176 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom CZ in residue TYR A 154
+2022-03-16 14:34:51,176 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom OH in residue TYR A 154
+2022-03-16 14:34:51,177 WARNING:biomolecule.py:158:num_missing_heavy:Missing atom OXT in residue GLN A 306
+2022-03-16 14:34:51,178 INFO:biomolecule.py:1052:repair_heavy:Added atom CG to residue TYR A 154 at coordinates 14.189, 22.260, -38.070
+2022-03-16 14:34:51,178 INFO:biomolecule.py:1052:repair_heavy:Added atom CD1 to residue TYR A 154 at coordinates 14.326, 21.106, -37.287
+2022-03-16 14:34:51,179 INFO:biomolecule.py:1052:repair_heavy:Added atom CD2 to residue TYR A 154 at coordinates 15.214, 23.202, -38.031
+2022-03-16 14:34:51,179 INFO:biomolecule.py:1052:repair_heavy:Added atom CE1 to residue TYR A 154 at coordinates 15.441, 20.916, -36.477
+2022-03-16 14:34:51,179 INFO:biomolecule.py:1052:repair_heavy:Added atom CE2 to residue TYR A 154 at coordinates 16.329, 23.024, -37.220
+2022-03-16 14:34:51,180 INFO:biomolecule.py:1052:repair_heavy:Added atom CZ to residue TYR A 154 at coordinates 16.437, 21.887, -36.434
+2022-03-16 14:34:51,180 INFO:biomolecule.py:1052:repair_heavy:Added atom OH to residue TYR A 154 at coordinates 17.523, 21.773, -35.615
+2022-03-16 14:34:51,181 INFO:biomolecule.py:1052:repair_heavy:Added atom OXT to residue GLN A 306 at coordinates 9.002, 28.665, -41.702
+2022-03-16 14:34:51,181 INFO:main.py:622:non_trivial:Updating disulfide bridges.
+2022-03-16 14:34:51,183 INFO:main.py:642:non_trivial:Adding hydrogens to biomolecule.
+2022-03-16 14:34:51,665 INFO:main.py:647:non_trivial:Optimizing hydrogen bonds
+2022-03-16 14:34:53,101 INFO:main.py:659:non_trivial:Applying force field to biomolecule states.
+2022-03-16 14:34:53,108 INFO:main.py:700:non_trivial:Applying custom naming scheme (amber).
+2022-03-16 14:34:53,113 INFO:main.py:706:non_trivial:Regenerating headers.
+2022-03-16 14:34:53,115 INFO:main.py:731:non_trivial:Regenerating PDB lines.
+2022-03-16 14:34:53,157 WARNING:main.py:312:print_pqr:Ignoring 465 header lines in output.
+2022-03-16 14:34:53,203 WARNING:main.py:355:print_pdb:Ignoring 465 header lines in output.

@@ -1,0 +1,292 @@
+<ForceField>
+  <Info>
+    <DateGenerated>2022-03-16</DateGenerated>
+  </Info>
+  <AtomTypes>
+    <Type class="N1" element="N" mass="14.0100" name="4WI-N1" />
+    <Type class="C1" element="C" mass="12.0100" name="4WI-C1" />
+    <Type class="C3" element="C" mass="12.0100" name="4WI-C3" />
+    <Type class="N" element="N" mass="14.0100" name="4WI-N" />
+    <Type class="C" element="C" mass="12.0100" name="4WI-C" />
+    <Type class="O" element="O" mass="16.0000" name="4WI-O" />
+    <Type class="CX" element="C" mass="12.0100" name="4WI-CX" />
+    <Type class="F" element="F" mass="19.0000" name="4WI-F" />
+    <Type class="H1" element="H" mass="1.0080" name="4WI-H1" />
+    <Type class="HC" element="H" mass="1.0080" name="4WI-HC" />
+    <Type class="HN" element="H" mass="1.0080" name="4WI-HN" />
+  </AtomTypes>
+  <Residues>
+    <Residue name="UNL">
+      <Atom charge=" -0.196260" name="N" type="4WI-N1" />
+      <Atom charge="  0.084800" name="C" type="4WI-C1" />
+      <Atom charge="  0.110704" name="C1" type="4WI-C3" />
+      <Atom charge=" -0.009591" name="C2" type="4WI-C3" />
+      <Atom charge=" -0.297892" name="N1" type="4WI-N" />
+      <Atom charge="  0.040059" name="C3" type="4WI-C3" />
+      <Atom charge="  0.233694" name="C4" type="4WI-C" />
+      <Atom charge=" -0.026010" name="C5" type="4WI-C3" />
+      <Atom charge="  0.214907" name="C6" type="4WI-C" />
+      <Atom charge="  0.105788" name="C7" type="4WI-C3" />
+      <Atom charge=" -0.275520" name="O" type="4WI-O" />
+      <Atom charge="  0.011701" name="C8" type="4WI-C3" />
+      <Atom charge=" -0.277430" name="O1" type="4WI-O" />
+      <Atom charge=" -0.315168" name="N2" type="4WI-N" />
+      <Atom charge=" -0.287674" name="N3" type="4WI-N" />
+      <Atom charge=" -0.003504" name="C9" type="4WI-CX" />
+      <Atom charge="  0.018714" name="C10" type="4WI-C3" />
+      <Atom charge="  0.235933" name="C11" type="4WI-C" />
+      <Atom charge=" -0.014357" name="C12" type="4WI-CX" />
+      <Atom charge=" -0.025268" name="C13" type="4WI-CX" />
+      <Atom charge="  0.104569" name="C14" type="4WI-C3" />
+      <Atom charge=" -0.275298" name="O2" type="4WI-O" />
+      <Atom charge=" -0.059211" name="C15" type="4WI-C3" />
+      <Atom charge=" -0.059211" name="C16" type="4WI-C3" />
+      <Atom charge=" -0.010963" name="C17" type="4WI-C3" />
+      <Atom charge=" -0.295372" name="N4" type="4WI-N" />
+      <Atom charge=" -0.057890" name="C18" type="4WI-C3" />
+      <Atom charge=" -0.057890" name="C19" type="4WI-C3" />
+      <Atom charge=" -0.057890" name="C20" type="4WI-C3" />
+      <Atom charge="  0.318002" name="C21" type="4WI-C" />
+      <Atom charge="  0.468466" name="C22" type="4WI-C3" />
+      <Atom charge=" -0.267204" name="O3" type="4WI-O" />
+      <Atom charge=" -0.161935" name="F" type="4WI-F" />
+      <Atom charge=" -0.161935" name="F1" type="4WI-F" />
+      <Atom charge=" -0.161935" name="F2" type="4WI-F" />
+      <Atom charge="  0.066808" name="H" type="4WI-H1" />
+      <Atom charge="  0.030455" name="H1" type="4WI-HC" />
+      <Atom charge="  0.030455" name="H2" type="4WI-HC" />
+      <Atom charge="  0.150777" name="H3" type="4WI-HN" />
+      <Atom charge="  0.040266" name="H4" type="4WI-HC" />
+      <Atom charge="  0.029056" name="H5" type="4WI-HC" />
+      <Atom charge="  0.029056" name="H6" type="4WI-HC" />
+      <Atom charge="  0.061073" name="H7" type="4WI-H1" />
+      <Atom charge="  0.046697" name="H8" type="4WI-H1" />
+      <Atom charge="  0.046697" name="H9" type="4WI-H1" />
+      <Atom charge="  0.149332" name="H10" type="4WI-HN" />
+      <Atom charge="  0.033649" name="H11" type="4WI-HC" />
+      <Atom charge="  0.047301" name="H12" type="4WI-H1" />
+      <Atom charge="  0.047301" name="H13" type="4WI-H1" />
+      <Atom charge="  0.032844" name="H14" type="4WI-HC" />
+      <Atom charge="  0.061083" name="H15" type="4WI-H1" />
+      <Atom charge="  0.023616" name="H16" type="4WI-HC" />
+      <Atom charge="  0.023616" name="H17" type="4WI-HC" />
+      <Atom charge="  0.023616" name="H18" type="4WI-HC" />
+      <Atom charge="  0.023616" name="H19" type="4WI-HC" />
+      <Atom charge="  0.023616" name="H20" type="4WI-HC" />
+      <Atom charge="  0.023616" name="H21" type="4WI-HC" />
+      <Atom charge="  0.150536" name="H22" type="4WI-HN" />
+      <Atom charge="  0.023666" name="H23" type="4WI-HC" />
+      <Atom charge="  0.023666" name="H24" type="4WI-HC" />
+      <Atom charge="  0.023666" name="H25" type="4WI-HC" />
+      <Atom charge="  0.023666" name="H26" type="4WI-HC" />
+      <Atom charge="  0.023666" name="H27" type="4WI-HC" />
+      <Atom charge="  0.023666" name="H28" type="4WI-HC" />
+      <Atom charge="  0.023666" name="H29" type="4WI-HC" />
+      <Atom charge="  0.023666" name="H30" type="4WI-HC" />
+      <Atom charge="  0.023666" name="H31" type="4WI-HC" />
+      <Bond atomName1="N" atomName2="C" />
+      <Bond atomName1="C" atomName2="C1" />
+      <Bond atomName1="C1" atomName2="N1" />
+      <Bond atomName1="C1" atomName2="C2" />
+      <Bond atomName1="C2" atomName2="C3" />
+      <Bond atomName1="N1" atomName2="C4" />
+      <Bond atomName1="C3" atomName2="C5" />
+      <Bond atomName1="C3" atomName2="C6" />
+      <Bond atomName1="C4" atomName2="O" />
+      <Bond atomName1="C4" atomName2="C7" />
+      <Bond atomName1="C5" atomName2="C8" />
+      <Bond atomName1="C6" atomName2="N2" />
+      <Bond atomName1="C6" atomName2="O1" />
+      <Bond atomName1="C7" atomName2="N3" />
+      <Bond atomName1="C7" atomName2="C9" />
+      <Bond atomName1="C8" atomName2="N2" />
+      <Bond atomName1="N3" atomName2="C10" />
+      <Bond atomName1="N3" atomName2="C11" />
+      <Bond atomName1="C9" atomName2="C12" />
+      <Bond atomName1="C9" atomName2="C13" />
+      <Bond atomName1="C10" atomName2="C12" />
+      <Bond atomName1="C11" atomName2="O2" />
+      <Bond atomName1="C11" atomName2="C14" />
+      <Bond atomName1="C12" atomName2="C13" />
+      <Bond atomName1="C13" atomName2="C15" />
+      <Bond atomName1="C13" atomName2="C16" />
+      <Bond atomName1="C14" atomName2="N4" />
+      <Bond atomName1="C14" atomName2="C17" />
+      <Bond atomName1="C17" atomName2="C18" />
+      <Bond atomName1="C17" atomName2="C19" />
+      <Bond atomName1="C17" atomName2="C20" />
+      <Bond atomName1="N4" atomName2="C21" />
+      <Bond atomName1="C21" atomName2="O3" />
+      <Bond atomName1="C21" atomName2="C22" />
+      <Bond atomName1="C22" atomName2="F" />
+      <Bond atomName1="C22" atomName2="F1" />
+      <Bond atomName1="C22" atomName2="F2" />
+      <Bond atomName1="C1" atomName2="H" />
+      <Bond atomName1="C2" atomName2="H1" />
+      <Bond atomName1="C2" atomName2="H2" />
+      <Bond atomName1="N1" atomName2="H3" />
+      <Bond atomName1="C3" atomName2="H4" />
+      <Bond atomName1="C5" atomName2="H5" />
+      <Bond atomName1="C5" atomName2="H6" />
+      <Bond atomName1="C7" atomName2="H7" />
+      <Bond atomName1="C8" atomName2="H8" />
+      <Bond atomName1="C8" atomName2="H9" />
+      <Bond atomName1="N2" atomName2="H10" />
+      <Bond atomName1="C9" atomName2="H11" />
+      <Bond atomName1="C10" atomName2="H12" />
+      <Bond atomName1="C10" atomName2="H13" />
+      <Bond atomName1="C12" atomName2="H14" />
+      <Bond atomName1="C14" atomName2="H15" />
+      <Bond atomName1="C15" atomName2="H16" />
+      <Bond atomName1="C15" atomName2="H17" />
+      <Bond atomName1="C15" atomName2="H18" />
+      <Bond atomName1="C16" atomName2="H19" />
+      <Bond atomName1="C16" atomName2="H20" />
+      <Bond atomName1="C16" atomName2="H21" />
+      <Bond atomName1="N4" atomName2="H22" />
+      <Bond atomName1="C18" atomName2="H23" />
+      <Bond atomName1="C18" atomName2="H24" />
+      <Bond atomName1="C18" atomName2="H25" />
+      <Bond atomName1="C19" atomName2="H26" />
+      <Bond atomName1="C19" atomName2="H27" />
+      <Bond atomName1="C19" atomName2="H28" />
+      <Bond atomName1="C20" atomName2="H29" />
+      <Bond atomName1="C20" atomName2="H30" />
+      <Bond atomName1="C20" atomName2="H31" />
+    </Residue>
+  </Residues>
+  <HarmonicBondForce>
+    <Bond k="746007.200000" length="0.115300" type1="4WI-C1" type2="4WI-N1" />
+    <Bond k="247609.120000" length="0.146700" type1="4WI-C1" type2="4WI-C3" />
+    <Bond k="220747.840000" length="0.146200" type1="4WI-C3" type2="4WI-N" />
+    <Bond k="194556.000000" length="0.153800" type1="4WI-C3" type2="4WI-C3" />
+    <Bond k="298068.160000" length="0.137900" type1="4WI-C" type2="4WI-N" />
+    <Bond k="203509.760000" length="0.152400" type1="4WI-C" type2="4WI-C3" />
+    <Bond k="546095.680000" length="0.121800" type1="4WI-C" type2="4WI-O" />
+    <Bond k="204932.320000" length="0.152200" type1="4WI-C3" type2="4WI-CX" />
+    <Bond k="214973.920000" length="0.150800" type1="4WI-CX" type2="4WI-CX" />
+    <Bond k="295055.680000" length="0.135000" type1="4WI-C3" type2="4WI-F" />
+    <Bond k="314553.120000" length="0.109700" type1="4WI-C3" type2="4WI-H1" />
+    <Bond k="314553.120000" length="0.109700" type1="4WI-C3" type2="4WI-HC" />
+    <Bond k="441244.640000" length="0.101300" type1="4WI-HN" type2="4WI-N" />
+    <Bond k="329615.520000" length="0.108700" type1="4WI-CX" type2="4WI-HC" />
+  </HarmonicBondForce>
+  <HarmonicAngleForce>
+    <Angle angle="3.116810" k="612.537600" type1="4WI-C3" type2="4WI-C1" type3="4WI-N1" />
+    <Angle angle="1.961402" k="711.280000" type1="4WI-C1" type2="4WI-C3" type3="4WI-N" />
+    <Angle angle="1.949708" k="554.798400" type1="4WI-C1" type2="4WI-C3" type3="4WI-C3" />
+    <Angle angle="2.106439" k="546.430400" type1="4WI-C" type2="4WI-N" type3="4WI-C3" />
+    <Angle angle="1.946217" k="543.083200" type1="4WI-C3" type2="4WI-C3" type3="4WI-C3" />
+    <Angle angle="1.947963" k="696.217600" type1="4WI-C3" type2="4WI-C3" type3="4WI-N" />
+    <Angle angle="1.938014" k="546.430400" type1="4WI-C" type2="4WI-C3" type3="4WI-C3" />
+    <Angle angle="2.147629" k="952.278400" type1="4WI-N" type2="4WI-C" type3="4WI-O" />
+    <Angle angle="2.010271" k="705.422400" type1="4WI-C3" type2="4WI-C" type3="4WI-N" />
+    <Angle angle="2.150247" k="707.932800" type1="4WI-C3" type2="4WI-C" type3="4WI-O" />
+    <Angle angle="1.903457" k="707.096000" type1="4WI-C" type2="4WI-C3" type3="4WI-N" />
+    <Angle angle="1.940109" k="548.940800" type1="4WI-C" type2="4WI-C3" type3="4WI-CX" />
+    <Angle angle="2.018300" k="543.083200" type1="4WI-C3" type2="4WI-N" type3="4WI-C3" />
+    <Angle angle="2.096316" k="530.531200" type1="4WI-C3" type2="4WI-CX" type3="4WI-CX" />
+    <Angle angle="1.961053" k="697.054400" type1="4WI-CX" type2="4WI-C3" type3="4WI-N" />
+    <Angle angle="1.047198" k="754.793600" type1="4WI-CX" type2="4WI-CX" type3="4WI-CX" />
+    <Angle angle="1.992643" k="542.246400" type1="4WI-C3" type2="4WI-CX" type3="4WI-C3" />
+    <Angle angle="1.919863" k="737.220800" type1="4WI-C" type2="4WI-C3" type3="4WI-F" />
+    <Angle angle="1.873786" k="1017.548800" type1="4WI-F" type2="4WI-C3" type3="4WI-F" />
+    <Angle angle="1.906598" k="409.195200" type1="4WI-C1" type2="4WI-C3" type3="4WI-H1" />
+    <Angle angle="2.053904" k="385.764800" type1="4WI-C3" type2="4WI-N" type3="4WI-HN" />
+    <Angle angle="1.916372" k="391.622400" type1="4WI-C3" type2="4WI-C3" type3="4WI-HC" />
+    <Angle angle="1.912184" k="392.459200" type1="4WI-C3" type2="4WI-C3" type3="4WI-H1" />
+    <Angle angle="1.900315" k="514.632000" type1="4WI-H1" type2="4WI-C3" type3="4WI-N" />
+    <Angle angle="2.051635" k="407.521600" type1="4WI-C" type2="4WI-N" type3="4WI-HN" />
+    <Angle angle="1.888796" k="397.480000" type1="4WI-C" type2="4WI-C3" type3="4WI-H1" />
+    <Angle angle="1.898395" k="396.643200" type1="4WI-C" type2="4WI-C3" type3="4WI-HC" />
+    <Angle angle="1.998054" k="387.438400" type1="4WI-C3" type2="4WI-CX" type3="4WI-HC" />
+    <Angle angle="2.054079" k="385.764800" type1="4WI-CX" type2="4WI-CX" type3="4WI-HC" />
+    <Angle angle="1.914452" k="395.806400" type1="4WI-CX" type2="4WI-C3" type3="4WI-H1" />
+    <Angle angle="1.922830" k="394.969600" type1="4WI-CX" type2="4WI-C3" type3="4WI-HC" />
+    <Angle angle="1.877626" k="326.352000" type1="4WI-HC" type2="4WI-C3" type3="4WI-HC" />
+    <Angle angle="1.892985" k="324.678400" type1="4WI-H1" type2="4WI-C3" type3="4WI-H1" />
+  </HarmonicAngleForce>
+  <PeriodicTorsionForce>
+    <Proper k1="0.000000" periodicity1="2" phase1="3.1415926535897931" type1="4WI-N1" type2="4WI-C1" type3="4WI-C3" type4="4WI-H1" />
+    <Proper k1="0.000000" periodicity1="2" phase1="0.0000000000000000" type1="4WI-C1" type2="4WI-C3" type3="4WI-N" type4="4WI-HN" />
+    <Proper k1="0.650844" periodicity1="3" phase1="0.0000000000000000" type1="4WI-C1" type2="4WI-C3" type3="4WI-C3" type4="4WI-HC" />
+    <Proper k1="0.334720" periodicity1="3" phase1="0.0000000000000000" type1="4WI-C3" type2="4WI-C3" type3="4WI-C3" type4="4WI-HC" />
+    <Proper k1="0.000000" periodicity1="2" phase1="0.0000000000000000" type1="4WI-C3" type2="4WI-C3" type3="4WI-N" type4="4WI-HN" />
+    <Proper k1="0.650844" periodicity1="3" phase1="0.0000000000000000" type1="4WI-N" type2="4WI-C3" type3="4WI-C3" type4="4WI-HC" />
+    <Proper k1="0.000000" periodicity1="2" phase1="3.1415926535897931" type1="4WI-N" type2="4WI-C" type3="4WI-C3" type4="4WI-H1" />
+    <Proper k1="0.650844" periodicity1="3" phase1="0.0000000000000000" type1="4WI-C3" type2="4WI-C3" type3="4WI-C3" type4="4WI-H1" />
+    <Proper k1="10.460000" periodicity1="2" phase1="3.1415926535897931" type1="4WI-C3" type2="4WI-C" type3="4WI-N" type4="4WI-HN" />
+    <Proper k1="0.000000" periodicity1="2" phase1="3.1415926535897931" type1="4WI-C" type2="4WI-N" type3="4WI-C3" type4="4WI-H1" />
+    <Proper k1="0.650844" periodicity1="3" phase1="0.0000000000000000" type1="4WI-C" type2="4WI-C3" type3="4WI-CX" type4="4WI-HC" />
+    <Proper k1="0.650844" periodicity1="3" phase1="0.0000000000000000" type1="4WI-C" type2="4WI-C3" type3="4WI-C3" type4="4WI-HC" />
+    <Proper k1="0.000000" periodicity1="2" phase1="0.0000000000000000" type1="4WI-C3" type2="4WI-N" type3="4WI-C3" type4="4WI-H1" />
+    <Proper k1="0.650844" periodicity1="3" phase1="0.0000000000000000" type1="4WI-C3" type2="4WI-CX" type3="4WI-CX" type4="4WI-HC" />
+    <Proper k1="8.368000" periodicity1="1" phase1="0.0000000000000000" type1="4WI-O" type2="4WI-C" type3="4WI-N" type4="4WI-HN" />
+    <Proper k1="3.347200" periodicity1="1" phase1="0.0000000000000000" type1="4WI-O" type2="4WI-C" type3="4WI-C3" type4="4WI-H1" />
+    <Proper k1="3.472720" periodicity1="1" phase1="0.0000000000000000" type1="4WI-O" type2="4WI-C" type3="4WI-C3" type4="4WI-HC" />
+    <Proper k1="0.000000" periodicity1="2" phase1="3.1415926535897931" type1="4WI-N" type2="4WI-C" type3="4WI-C3" type4="4WI-HC" />
+    <Proper k1="0.650844" periodicity1="3" phase1="0.0000000000000000" type1="4WI-N" type2="4WI-C3" type3="4WI-CX" type4="4WI-HC" />
+    <Proper k1="0.669440" periodicity1="3" phase1="0.0000000000000000" type1="4WI-CX" type2="4WI-CX" type3="4WI-C3" type4="4WI-H1" />
+    <Proper k1="0.650844" periodicity1="3" phase1="0.0000000000000000" type1="4WI-CX" type2="4WI-CX" type3="4WI-CX" type4="4WI-HC" />
+    <Proper k1="0.669440" periodicity1="3" phase1="0.0000000000000000" type1="4WI-CX" type2="4WI-CX" type3="4WI-C3" type4="4WI-HC" />
+    <Proper k1="0.000000" periodicity1="2" phase1="0.0000000000000000" type1="4WI-C" type2="4WI-C3" type3="4WI-N" type4="4WI-HN" />
+    <Proper k1="0.669440" periodicity1="3" phase1="0.0000000000000000" type1="4WI-C3" type2="4WI-CX" type3="4WI-C3" type4="4WI-HC" />
+    <Proper k1="0.000000" periodicity1="2" phase1="0.0000000000000000" type1="4WI-H1" type2="4WI-C3" type3="4WI-N" type4="4WI-HN" />
+    <Proper k1="0.650844" periodicity1="3" phase1="0.0000000000000000" type1="4WI-H1" type2="4WI-C3" type3="4WI-C3" type4="4WI-HC" />
+    <Proper k1="0.502080" periodicity1="3" phase1="0.0000000000000000" type1="4WI-HC" type2="4WI-C3" type3="4WI-C3" type4="4WI-HC" />
+    <Proper k1="0.650844" periodicity1="3" phase1="0.0000000000000000" type1="4WI-HC" type2="4WI-C3" type3="4WI-C3" type4="4WI-H1" />
+    <Proper k1="0.627600" periodicity1="3" phase1="0.0000000000000000" type1="4WI-H1" type2="4WI-C3" type3="4WI-CX" type4="4WI-HC" />
+    <Proper k1="0.650844" periodicity1="3" phase1="0.0000000000000000" type1="4WI-HC" type2="4WI-CX" type3="4WI-CX" type4="4WI-HC" />
+    <Proper k1="0.000000" periodicity1="2" phase1="3.1415926535897931" type1="4WI-N1" type2="4WI-C1" type3="4WI-C3" type4="4WI-N" />
+    <Proper k1="0.000000" periodicity1="2" phase1="3.1415926535897931" type1="4WI-N1" type2="4WI-C1" type3="4WI-C3" type4="4WI-C3" />
+    <Proper k1="0.000000" periodicity1="2" phase1="0.0000000000000000" type1="4WI-C1" type2="4WI-C3" type3="4WI-N" type4="4WI-C" />
+    <Proper k1="0.650844" periodicity1="3" phase1="0.0000000000000000" type1="4WI-C1" type2="4WI-C3" type3="4WI-C3" type4="4WI-C3" />
+    <Proper k1="10.460000" periodicity1="2" phase1="3.1415926535897931" type1="4WI-C3" type2="4WI-N" type3="4WI-C" type4="4WI-O" />
+    <Proper k1="2.092000" periodicity1="1" phase1="0.0000000000000000" type1="4WI-C3" type2="4WI-N" type3="4WI-C" type4="4WI-C3" />
+    <Proper k1="0.460240" periodicity1="1" phase1="0.0000000000000000" type1="4WI-C3" type2="4WI-C3" type3="4WI-C3" type4="4WI-C3" />
+    <Proper k1="0.418400" periodicity1="3" phase1="0.0000000000000000" type1="4WI-C3" type2="4WI-C3" type3="4WI-C3" type4="4WI-C" />
+    <Proper k1="4.267680" periodicity1="1" phase1="3.1415926535897931" type1="4WI-C3" type2="4WI-C3" type3="4WI-N" type4="4WI-C" />
+    <Proper k1="2.970640" periodicity1="2" phase1="3.1415926535897931" type1="4WI-C3" type2="4WI-C3" type3="4WI-C" type4="4WI-N" />
+    <Proper k1="3.096160" periodicity1="1" phase1="0.0000000000000000" type1="4WI-C3" type2="4WI-C3" type3="4WI-C" type4="4WI-O" />
+    <Proper k1="0.418400" periodicity1="3" phase1="0.0000000000000000" type1="4WI-N" type2="4WI-C3" type3="4WI-C3" type4="4WI-C3" />
+    <Proper k1="0.418400" periodicity1="1" phase1="3.1415926535897931" type1="4WI-N" type2="4WI-C" type3="4WI-C3" type4="4WI-N" />
+    <Proper k1="0.000000" periodicity1="2" phase1="3.1415926535897931" type1="4WI-N" type2="4WI-C" type3="4WI-C3" type4="4WI-CX" />
+    <Proper k1="0.418400" periodicity1="3" phase1="0.0000000000000000" type1="4WI-C3" type2="4WI-C3" type3="4WI-C3" type4="4WI-N" />
+    <Proper k1="2.092000" periodicity1="1" phase1="0.0000000000000000" type1="4WI-C3" type2="4WI-C" type3="4WI-N" type4="4WI-C3" />
+    <Proper k1="0.000000" periodicity1="2" phase1="0.0000000000000000" type1="4WI-C" type2="4WI-C3" type3="4WI-N" type4="4WI-C3" />
+    <Proper k1="2.677760" periodicity1="1" phase1="0.0000000000000000" type1="4WI-C" type2="4WI-C3" type3="4WI-N" type4="4WI-C" />
+    <Proper k1="0.650844" periodicity1="3" phase1="0.0000000000000000" type1="4WI-C" type2="4WI-C3" type3="4WI-CX" type4="4WI-CX" />
+    <Proper k1="0.418400" periodicity1="3" phase1="0.0000000000000000" type1="4WI-C" type2="4WI-C3" type3="4WI-C3" type4="4WI-C3" />
+    <Proper k1="0.000000" periodicity1="2" phase1="0.0000000000000000" type1="4WI-C3" type2="4WI-N" type3="4WI-C3" type4="4WI-CX" />
+    <Proper k1="0.650844" periodicity1="3" phase1="0.0000000000000000" type1="4WI-C3" type2="4WI-CX" type3="4WI-CX" type4="4WI-C3" />
+    <Proper k1="0.650844" periodicity1="3" phase1="0.0000000000000000" type1="4WI-C3" type2="4WI-CX" type3="4WI-CX" type4="4WI-CX" />
+    <Proper k1="0.000000" periodicity1="2" phase1="3.1415926535897931" type1="4WI-O" type2="4WI-C" type3="4WI-C3" type4="4WI-N" />
+    <Proper k1="0.000000" periodicity1="2" phase1="3.1415926535897931" type1="4WI-O" type2="4WI-C" type3="4WI-C3" type4="4WI-CX" />
+    <Proper k1="0.650844" periodicity1="3" phase1="0.0000000000000000" type1="4WI-N" type2="4WI-C3" type3="4WI-CX" type4="4WI-CX" />
+    <Proper k1="2.970640" periodicity1="2" phase1="3.1415926535897931" type1="4WI-N" type2="4WI-C" type3="4WI-C3" type4="4WI-C3" />
+    <Proper k1="0.650844" periodicity1="3" phase1="0.0000000000000000" type1="4WI-CX" type2="4WI-CX" type3="4WI-CX" type4="4WI-C3" />
+    <Proper k1="0.000000" periodicity1="2" phase1="0.0000000000000000" type1="4WI-CX" type2="4WI-C3" type3="4WI-N" type4="4WI-C3" />
+    <Proper k1="0.000000" periodicity1="2" phase1="0.0000000000000000" type1="4WI-CX" type2="4WI-C3" type3="4WI-N" type4="4WI-C" />
+    <Proper k1="0.000000" periodicity1="2" phase1="0.0000000000000000" type1="4WI-C" type2="4WI-N" type3="4WI-C3" type4="4WI-CX" />
+    <Proper k1="3.096160" periodicity1="1" phase1="0.0000000000000000" type1="4WI-O" type2="4WI-C" type3="4WI-C3" type4="4WI-C3" />
+    <Proper k1="0.000000" periodicity1="2" phase1="3.1415926535897931" type1="4WI-N" type2="4WI-C" type3="4WI-C3" type4="4WI-F" />
+    <Proper k1="0.000000" periodicity1="2" phase1="3.1415926535897931" type1="4WI-O" type2="4WI-C" type3="4WI-C3" type4="4WI-F" />
+    <Improper k1="4.602400" periodicity1="2" phase1="3.1415926535897931" type1="4WI-C" type2="4WI-C3" type3="4WI-N" type4="4WI-HN" />
+    <Improper k1="43.932000" periodicity1="2" phase1="3.1415926535897931" type1="4WI-C3" type2="4WI-N" type3="4WI-C" type4="4WI-O" />
+    <Improper k1="4.602400" periodicity1="2" phase1="3.1415926535897931" type1="4WI-C" type2="4WI-C3" type3="4WI-N" type4="4WI-C3" />
+  </PeriodicTorsionForce>
+  <NonbondedForce coulomb14scale="0.8333333333333334" lj14scale="0.5">
+    <UseAttributeFromResidue name="charge" />
+    <Atom epsilon="0.4594032" sigma="0.3273518249462967" type="4WI-N1" />
+    <Atom epsilon="0.6677664" sigma="0.3478959493932731" type="4WI-C1" />
+    <Atom epsilon="0.4510352" sigma="0.3397709531257257" type="4WI-C3" />
+    <Atom epsilon="0.6845024" sigma="0.3180864782832791" type="4WI-N" />
+    <Atom epsilon="0.4133792" sigma="0.3315212310028100" type="4WI-C" />
+    <Atom epsilon="0.6121192" sigma="0.3048120873800651" type="4WI-O" />
+    <Atom epsilon="0.4510352" sigma="0.3397709531257257" type="4WI-CX" />
+    <Atom epsilon="0.3481088" sigma="0.3034222854639816" type="4WI-F" />
+    <Atom epsilon="0.0870272" sigma="0.2421997255202334" type="4WI-H1" />
+    <Atom epsilon="0.0870272" sigma="0.2600176998083396" type="4WI-HC" />
+    <Atom epsilon="0.0418400" sigma="0.1106496207546381" type="4WI-HN" />
+  </NonbondedForce>
+</ForceField>
