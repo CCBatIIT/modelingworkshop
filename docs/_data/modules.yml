@@ -59,7 +59,7 @@
 
 - title: "Molecular docking"
   teacher: Patel
-  basename: 2-2-molecular-docking
+  basename: 2-2-molecular_docking
   day: 2
   period: 2
   bold: true
@@ -71,16 +71,19 @@
 
 - title: Molecular mechanics force fields
   teacher: DePaolo-Boisvert
+  basename: 3-1-molecular_mechanics
   day: 3
   period: 1
   bold: true
 
-- title: "Lab: Preparing a protein model for AMBER molecular dynamics"
+- title: "Lab: Preparing a system for molecular simulation"
+  # notebook: system_preparation
   day: 3
   period: 1
 
 - title: Quantum mechanics/molecular mechanics (QM/MM)
   teacher: Suthaharan
+  basename: 3-2-qmmm
   day: 3
   period: 2
   bold: true

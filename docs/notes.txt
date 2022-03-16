@@ -2,9 +2,6 @@ TODO
 
 * Adapt
 
-Lab.07 / IBM3202 – Molecular Dynamics on GROMACS
-https://projects.volkamerlab.org/teachopencadd/talktorials/T019_md_simulation.html
-
 Lab.08 / IBM3202 – Trajectory Analysis using MDanalysis
 https://projects.volkamerlab.org/teachopencadd/talktorials/T020_md_analysis.html
   
@@ -22,6 +19,9 @@ POSSIBLE IMPROVEMENTS
 
 * Markov State Models
 
+* Umbrella sampling exercise
 
 FOR NEXT TIME
 
+* Day 1 Period 1 went ~30 minutes long. This pushed back Period 2. In period 2, the lab risks leaving people behind.
+* Day 2 Period 1 went ~30 minutes short.
