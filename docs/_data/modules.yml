@@ -101,13 +101,13 @@
   period: 1
   bold: true
 
-- title: "Lab: Performing a molecular simulation with OpenMM"
-  notebook: openmm
+- title: "Lab: Performing a molecular simulation with Robosample"
+  notebook: robosample
   day: 4
   period: 1
 
-- title: "Lab: Performing a molecular simulation with Robosample"
-  notebook: robosample
+- title: "Lab: Performing a molecular simulation with OpenMM (alternative/complement)"
+  notebook: openmm
   day: 4
   period: 1
 
@@ -133,6 +133,12 @@
 - title: Binding free energy calculations
   teacher: DePaolo-Boisvert
   description: "Thermodynamic cycles. Alchemical methods. Quality metrics. Pose prediction"
+  day: 5
+  period: 1
+  bold: true
+
+- title: Guacherna
+  description: "To facilitate preparations for Guacherna, there will not be a workshop period."
   day: 5
   period: 2
   bold: true

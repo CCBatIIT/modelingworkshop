@@ -17,6 +17,8 @@ POSSIBLE IMPROVEMENTS
 
 * Docking pose visualizer. prolif? plip? https://github.com/pharmai/plip
 
+* QMMM lecture slide 6. Arrows confusing.
+
 * Markov State Models
 
 * Umbrella sampling exercise
