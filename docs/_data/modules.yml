@@ -89,6 +89,7 @@
   bold: true
 
 - title: "Lab: QM/MM analysis of MPro catalysis"
+  notebook: qmmm
   day: 3
   period: 2
 
