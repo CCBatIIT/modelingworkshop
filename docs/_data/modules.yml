@@ -95,7 +95,7 @@
 
 - title: Molecular simulation
   teacher: Spiridon
-  basename: 4-1-molecular-simulation
+  basename: 4-1-molecular_simulation
   description: Markov chain Monte Carlo. Molecular dynamics. Constrained dynamics. Integrators, thermostats, and barostats
   day: 4
   period: 1
@@ -107,6 +107,7 @@
   period: 1
 
 - title: "Lab: Performing a molecular simulation with Robosample"
+  notebook: robosample
   day: 4
   period: 1
 
