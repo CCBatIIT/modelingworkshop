@@ -77,7 +77,7 @@
   bold: true
 
 - title: "Lab: Preparing a system for molecular simulation"
-  # notebook: system_preparation
+  notebook: system_preparation
   day: 3
   period: 1
 
