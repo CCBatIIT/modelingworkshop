@@ -21,6 +21,8 @@ POSSIBLE IMPROVEMENTS
 
 * Umbrella sampling exercise
 
+* Clean up MD setup lab. Use a working directory on Colab.
+
 FOR NEXT TIME
 
 * Day 1 Period 1 went ~30 minutes long. This pushed back Period 2. In period 2, the lab risks leaving people behind.
