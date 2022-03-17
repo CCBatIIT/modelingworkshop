@@ -176,7 +176,7 @@
 #   period: 2
 
 - title: Guacherna
-  description: "To facilitate preparations for Guacherna, there will not be a workshop period."
+  description: "To facilitate preparations for Guacherna, there will not be a workshop period"
   day: 5
   period: 2
   bold: true

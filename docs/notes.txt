@@ -1,13 +1,6 @@
-TODO
-
-* Adapt
-
-Lab.08 / IBM3202 – Trajectory Analysis using MDanalysis
-https://projects.volkamerlab.org/teachopencadd/talktorials/T020_md_analysis.html
-  
 POSSIBLE IMPROVEMENTS
 
-* More questions in slides
+* More questions in slides, especially later
 
 * Introduce Protein Data Bank / Fragalysis pages
 
