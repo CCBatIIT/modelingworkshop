@@ -140,6 +140,7 @@
   period: 2
 
 - title: "Lab: Analysis of molecular simulations"
+  notebook: mdanalysis
   description: "Equilibration. Alignment and visualization of trajectories. Root mean square properties. Estimating expectation values. Dimensionality reduction"
   day: 4
   period: 2
