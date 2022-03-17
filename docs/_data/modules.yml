@@ -130,14 +130,14 @@
   day: 4
   period: 1
 
-- title: "Lab: Performing a molecular simulation with OpenMM (alternative/complement)"
-  notebook: openmm
-  day: 4
-  period: 1
-
 # - panopto:
 #   day: 3
 #   period: 2
+
+- title: "Lab: Performing a molecular simulation with OpenMM (alternative/complement)"
+  notebook: openmm
+  day: 4
+  period: 2
 
 - title: "Lab: Analysis of molecular simulations"
   description: "Equilibration. Alignment and visualization of trajectories. Root mean square properties. Estimating expectation values. Dimensionality reduction"
@@ -145,11 +145,12 @@
   period: 2
   bold: true
 
-# - title: Markov State Models
-#   description: "Conformational clustering. Markov chains. Microstates and empirical transition matrices. Computing equilibrium populations and kinetics"
-#   day: 4
-#   period: 2
-#   bold: true
+- title: Markov State Models
+  basename: 4-2-markov_state_models
+  description: "Conformational clustering. Markov chains. Microstates and empirical transition matrices. Computing equilibrium populations and kinetics"
+  day: 4
+  period: 2
+  bold: true
 
 # - panopto:
 #   day: 3
