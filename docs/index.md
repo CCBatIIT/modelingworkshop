@@ -37,7 +37,9 @@ This workshop will introduce advanced undergraduate students, graduate students,
 
 Up to 25 students may participate at Simon Bolivar University in Barranquilla, Colombia, and additional 25 students may participate online and receive support from the instructors.
 
-![Participants](https://github.com/CCBatIIT/modelingworkshop/raw/main/images/in_person_participants.jpeg)
+![In person participants](https://github.com/CCBatIIT/modelingworkshop/raw/main/images/in_person_participants.jpeg)
+
+![Zoom participants](https://github.com/CCBatIIT/modelingworkshop/raw/main/images/zoom_participants.png)
 
 Participants should have a laptop computer capable of running the virtual machine.
 
