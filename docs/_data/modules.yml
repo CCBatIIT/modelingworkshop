@@ -25,6 +25,10 @@
   day: 1
   period: 1
 
+- panopto: "6554413a-c32e-45f6-b358-ae58012fdb3a"
+  day: 1
+  period: 1
+
 - title: "Three-dimensional models"
   day: 1
   period: 2
@@ -46,6 +50,10 @@
   day: 1
   period: 2
 
+- panopto: "fc9fa9f4-c397-4da4-a976-ae5801846508"
+  day: 1
+  period: 2
+
 - title: "Electrostatics and solvation by continuum dielectric models"
   basename: 2-1-electrostatics
   day: 2
@@ -54,6 +62,10 @@
 
 - title: "Lab: Visualizing protonation and electrostatics"
   notebook: electrostatics
+  day: 2
+  period: 1
+
+- panopto: "75a22d83-81f4-408b-9187-ae59012685d7"
   day: 2
   period: 1
 
@@ -69,6 +81,10 @@
   day: 2
   period: 2
 
+- panopto: "c090ebb8-02b7-4dc4-a837-ae59018a2f4e"
+  day: 2
+  period: 2
+
 - title: Molecular mechanics force fields
   teacher: DePaolo-Boisvert
   basename: 3-1-molecular_mechanics
@@ -81,6 +97,10 @@
   day: 3
   period: 1
 
+- panopto: "49bead0e-fc06-4df9-ae5c-ae5a0123f11d"
+  day: 3
+  period: 1
+
 - title: Quantum mechanics/molecular mechanics (QM/MM)
   teacher: Suthaharan
   basename: 3-2-qmmm
@@ -90,6 +110,10 @@
 
 - title: "Lab: QM/MM analysis of MPro catalysis"
   notebook: qmmm
+  day: 3
+  period: 2
+
+- panopto: "358cf6bc-2225-4474-b9a0-ae5a0179373b"
   day: 3
   period: 2
 
@@ -111,6 +135,10 @@
   day: 4
   period: 1
 
+# - panopto:
+#   day: 3
+#   period: 2
+
 - title: "Lab: Analysis of molecular simulations"
   description: "Equilibration. Alignment and visualization of trajectories. Root mean square properties. Estimating expectation values. Dimensionality reduction"
   day: 4
@@ -122,6 +150,10 @@
 #   day: 4
 #   period: 2
 #   bold: true
+
+# - panopto:
+#   day: 3
+#   period: 2
 
 - title: Simulating and analyzing thermodynamic processes
   basename: 5-1-thermodynamic-processes
@@ -136,6 +168,10 @@
   day: 5
   period: 1
   bold: true
+
+# - panopto:
+#   day: 3
+#   period: 2
 
 - title: Guacherna
   description: "To facilitate preparations for Guacherna, there will not be a workshop period."

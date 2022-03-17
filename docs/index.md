@@ -22,11 +22,13 @@ Topics are as follows:
 {% for day in (1..5) %} | {{ day }} | {% for period in (1..2) %} {% for module in site.data.modules %} {% if module.day == day %} {% if module.period == period %}{%- if module.bold %}<b>{% endif %}{{ module.title }}{% if module.bold %}</b>{% endif -%}{% if module.teacher %} ({{ module.teacher }}){% endif -%}{% if module.description %}. <i>{{ module.description }}</i> {% endif -%}
 {% if module.notebook %} [[colab](https://colab.research.google.com/github/CCBatIIT/modelingworkshop/blob/main/labs/{{ module.day }}-{{module.period}}/{{ module.notebook }}.ipynb)]
 {%- endif -%}
+{%- if module.panopto %} [[Recording](https://iit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id={{module.panopto}})]
+{%- endif -%}
 {% if module.basename %} [{% if module.slides == "ppt" %}[ppt](https://github.com/CCBatIIT/modelingworkshop/raw/main/slides/{{ module.basename }}.ppt)/{% elsif module.slides == "pdf"%}{% else %}[key](https://github.com/CCBatIIT/modelingworkshop/raw/main/slides/{{ module.basename }}.key)/{% endif -%}[pdf](https://github.com/CCBatIIT/modelingworkshop/raw/main/slides/{{ module.basename }}.pdf)]. {% else %}.
 {%- endif %} {%- endif %} {% endif %} {% endfor %} | {% endfor %}
 {% endfor %}
 
-Lectures may be recorded and posted online for participants to complete asynchronously and as a free online resource.
+[Recordings are available](https://iit.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=aee149b5-febe-4617-abf1-ae5b00ea2763) as a free online resource.
 
 
 # Who?
@@ -35,11 +37,13 @@ This workshop will introduce advanced undergraduate students, graduate students,
 
 Up to 25 students may participate at Simon Bolivar University in Barranquilla, Colombia, and additional 25 students may participate online and receive support from the instructors.
 
+![Participants](https://github.com/CCBatIIT/modelingworkshop/raw/main/images/in_person_participants.jpeg)
+
 Participants should have a laptop computer capable of running the virtual machine.
 
 If you would like to be a formal participant in the workshop, please submit an [application](https://forms.gle/KgUUzhWsaF6XkkJ49). Formal participants will be able to attend the workshop live and participate in live discussions. Priority for formal participation will be given to affiliates of Simon Bolivar University and Illinois Tech and individuals working with a workshop instructor or collaborator.
 
-After the workshop, lecture recordings and slides may be made freely available online.
+After the workshop, lecture recordings and slides will be made freely available online.
 
 # When?
 
