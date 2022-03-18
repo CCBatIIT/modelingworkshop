@@ -24,3 +24,14 @@ FOR NEXT TIME
 * Day 2 Period 1 went ~30 minutes short.
 * Day 3 Period 1 went ~20 minutes short.
 # Day 3 Period 2 started ~20 minutes late and had a long (~30 minute) break
+
+TO UPDATE GITHUB REPO AND OVERWRITE CHANGED FILES
+
+Resolved the students issues by
+
+replacing the !git pull line with"
+  !git fetch origin main
+  !git reset --hard origin/main
+
+changing the data directory to labs-complete from labs in the next cell
+

@@ -166,10 +166,17 @@
 
 - title: Binding free energy calculations
   teacher: DePaolo-Boisvert
+  basename: 5-1-binding_free_energy_calculations
   description: "Thermodynamic cycles. Alchemical methods. Quality metrics. Pose prediction"
   day: 5
   period: 1
   bold: true
+
+- title: "Lab: YANK health report"
+  teacher:
+  notebook: bromodomains_health_report
+  day: 5
+  period: 1
 
 # - panopto:
 #   day: 3
