@@ -130,11 +130,11 @@
   day: 4
   period: 1
 
-# - panopto:
-#   day: 3
-#   period: 2
+- panopto: "dccc68f5-8cdd-43db-b5c1-ae5b01281273"
+  day: 4
+  period: 1
 
-- title: "Lab: Performing a molecular simulation with OpenMM (alternative/complement)"
+- title: "Lab: Performing a molecular simulation with OpenMM"
   notebook: openmm
   day: 4
   period: 2
@@ -153,9 +153,9 @@
   period: 2
   bold: true
 
-# - panopto:
-#   day: 3
-#   period: 2
+- panopto: "d56ff43c-e7e2-427a-9d54-ae5b0173ac3c"
+  day: 4
+  period: 2
 
 - title: Simulating and analyzing thermodynamic processes
   basename: 5-1-thermodynamic-processes
@@ -173,14 +173,14 @@
   bold: true
 
 - title: "Lab: YANK health report"
-  teacher:
+  teacher: DePaolo-Boisvert
   notebook: bromodomains_health_report
   day: 5
   period: 1
 
-# - panopto:
-#   day: 3
-#   period: 2
+- panopto: "32275cb3-4115-421b-865c-ae5c01274064"
+  day: 5
+  period: 1
 
 - title: Guacherna
   description: "To facilitate preparations for Guacherna, there will not be a workshop period"
